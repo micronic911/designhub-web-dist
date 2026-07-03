@@ -1,0 +1,4 @@
+# Inside PulseGameArena-dist .gitignore
+node_modules/
+.DS_Store
+# Do not put .github
